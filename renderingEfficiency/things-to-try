@@ -1,0 +1,7 @@
+sdl_rect
+scaled surface+pixel manip
+
+draw flag
+render every X ticks
+render at 60Hz
+render when $2400 - $3FFF is altered
