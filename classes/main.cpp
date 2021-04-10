@@ -14,7 +14,6 @@ int main(int argv, char** argc) {
 
 	TestClass test3(bee);
 
-	cout << test.abc();
-	system("PAUSE");
+	cout << test.abc() << endl;
 	return 0;
 }
